@@ -43,5 +43,6 @@
 
 **Languages & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,blender,unity,godot,maya" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,blender,unity,godot" />
+  <img src="https://img.shields.io/badge/Maya-0696D7?logo=autodesk&logoColor=white"/>
 </p>
