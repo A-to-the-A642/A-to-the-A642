@@ -5,7 +5,7 @@
 
 **About Me**
 
-- Final year student at **Taylor's University** with some hope I start my Master's in Artificial Intelligence (AI) in **University of Galway**
+- Final year student at **Taylor's University** with some hope I start my Master's in Artificial Intelligence (Msc of AI) in **University of Galway**
 - Looking for an **internship** later in my final year hopefully
 - Interested in **backend coding, frontend looks fun, and making apps/games**
 - Learned some **Java, C++/C#, Python, and MySQL** may also have interests in **HTML, CSS, Javascript**
