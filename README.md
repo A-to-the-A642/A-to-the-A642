@@ -25,6 +25,11 @@
 
 ---
 
+**Certificate(s)**
+- Cisco Packet Tracer
+
+---
+
 **Hobbies**
 - Gaming
 - Watching Anime
