@@ -8,7 +8,7 @@
 - Final year student at **Taylor's University** with some hope I start my Master's in Artificial Intelligence (Msc of AI) in **University of Galway**
 - Looking for an **internship** later in my final year hopefully
 - Interested in **backend coding, frontend looks fun, and making apps/games**
-- Learned some **Java, C++/C#, Python, and MySQL** may also have interests in **HTML, CSS, Javascript**
+- Learned some **Java, C++/C#, Python, MySQL, and R** may also have interests in **HTML, CSS, Javascript**
 
 ---
 
@@ -48,6 +48,6 @@
 
 **Languages & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,blender,unity,godot" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,R,blender,unity,godot" />
   <img src="https://img.shields.io/badge/Maya-0696D7?logo=autodesk&logoColor=white"/>
 </p>
